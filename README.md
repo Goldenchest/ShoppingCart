@@ -2,6 +2,7 @@
 Basic shopping cart system
 
 Features:
+Markup:
 *Add items to the cart
 *Remove items from the cart
 *List items in the cart

@@ -12,4 +12,4 @@ Features:
 - Apply buy one get one free discount
 - Apply different sales tax rate based on the buyer's geographical state
 
-main.cpp contains test code verifying basic functionality
+main.cpp contains test code verifying basic functionality.
